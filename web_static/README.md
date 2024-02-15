@@ -70,5 +70,5 @@ What you should learn from this project:
 ### [12. Accessibility](./103-index.html)
 
 * Improve the page by adding Accessibility support
-## Demo Image:bulb:
+## Demo Image:
 * ![My Image](./images/demo.JPG)
